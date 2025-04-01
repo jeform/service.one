@@ -1,4 +1,4 @@
-package com.exolution.service.one;
+package com.exolution.service.tasks;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
