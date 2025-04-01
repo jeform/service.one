@@ -1,4 +1,6 @@
-# Este projeto é um serviço de gerenciamento de tarefas desenvolvido em Java utilizando o framework Spring Boot. 
+# Projeto de estudo de Microserviços com Spring Cloud
+
+Este projeto é um serviço de gerenciamento de tarefas desenvolvido em Java utilizando o framework Spring Boot. 
 
 ## Funcionalidades e tecnologias:
 
